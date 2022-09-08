@@ -1,4 +1,5 @@
 # 记录Vscode的配置与插件名称
+* better Comments配置
 ![在这里插入图片描述](https://github.com/ccpdead/VsCode_Setting/blob/main/Image/better_comments.png)
 ### 插件：
 * ubuntu
