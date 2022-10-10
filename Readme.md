@@ -1,6 +1,6 @@
 # 记录Vscode的配置与插件名称
 * better Comments配置
-![在这里插入图片描述](https://github.com/ccpdead/VsCode_Setting/blob/main/Image/better_comments.png)
+![在这里插入图片描述](https://img1.imgtp.com/2022/10/10/0cDXO7K2.png)
 ### 插件：
 * ubuntu
 ~~~
@@ -40,10 +40,10 @@ Vetur
 ~~~
 ### 设置：
 * 背景颜色设置
-~~~
+```
     "workbench.colorCustomizations": {
         "editor.lineHighlightBackground": "#fae42119",//修改光标所在行的背景色
         "editor.lineHighlightBorder": "#f8000028"     //修改光标所在行的边框色
         
     },
-~~~
+```
